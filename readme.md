@@ -62,7 +62,6 @@ A thresholding approach was used to categorize customers into tiers (`Champion`,
 
 ## 📊 Visualizations
 
-*(**Instructions:** Add your generated Treemap image file (e.g., as a PNG) to your GitHub repository and link it here.)*
 
 <img width="926" height="451" alt="image" src="https://github.com/user-attachments/assets/1aedf465-c3be-4139-91c4-1bdfd5fd6efa" />
 
